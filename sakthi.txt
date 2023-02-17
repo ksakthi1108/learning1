@@ -1,14 +1,10 @@
-rhrthfsghfsghfghsgdfgrgtrhhgfngfsbdsakthuii
 
 
-todays learning
-1.git init
-2.git add
-3.git commit
-    Admin@DESKTOP-HRQ065Q MINGW64 /e/gitlearning (master)
-     $ git remote add origin https://github.com/ksakthi1108/learning1.git
-     error: remote origin already exists.
+<html>
+<head>
+<body>
+<h1>Hi guys we gonna wait more days for the bright life</h1>
+</body>
+</head>
+</html>
 
-// solution
-
-$ git remote rm origin
